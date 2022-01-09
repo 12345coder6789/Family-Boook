@@ -1,0 +1,12 @@
+#style{
+    background: linear-gradient(90deg, rgba(247,97,161,1) 0%, rgba(250,156,212,1) 32%, rgba(167,251,255,1) 75%, rgba(129,255,239,1) 98%);
+}
+
+#btn{
+    background: linear-gradient(90deg, rgba(2,223,226,1) 0%, rgba(252,0,255,1) 98%);
+}
+body{
+    font-family: 'Island Moments', cursive;
+    background:linear-gradient(90deg, rgba(255,254,0,1) 0%, rgba(226,255,0,1) 10%, rgba(196,255,0,1) 20%, rgba(29,255,0,1) 37%, rgba(22,255,145,1) 41%, rgba(15,255,170,1) 45%, rgba(0,255,216,1) 53%, rgba(0,247,255,1) 81%, rgba(0,213,255,1) 100%);
+}  
+  
